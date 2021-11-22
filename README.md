@@ -19,6 +19,7 @@ cd EGWCaps
 
 **Requirements**
 
+* 1 GPU
 * Python 3.5 or higher
 * PyTorch 1.0.1
 * Torchvision 0.2.1
