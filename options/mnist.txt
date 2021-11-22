@@ -1,0 +1,18 @@
+Using options:
+learning_rate   0.001
+decoder         FC
+batch_size      128
+epochs          3
+filepath        
+use_gpu         True
+save_images     True
+alpha           0.0005
+dataset         mnist
+routing_iterations 3
+log_filepath    
+gpu_ids         None
+batch_norm      False
+loss_type       L2
+anneal_alpha    none
+leaky_routing   False
+model           mnist
