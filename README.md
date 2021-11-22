@@ -39,5 +39,6 @@ Reconstraction results on 0 and 99 epoches.
 Digits at left are real images from MNIST and digits at right are corresponding reconstructed images.
 
 ![Epoch_0](pictures/epoch_0.png)
+
 ![Epoch_99](pictures/epoch_99.png)
 
