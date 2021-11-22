@@ -3,7 +3,7 @@ Ensembled Gromov-Wasserstein (EGW) framework is proposed for finding the degree 
 
 ## Benchmarks
 
-EGWCaps can be evaluated on 4 benchmarks MNIST, FashionMNIST, SmallNORB, and CIFAR10.
+EGWCaps can be evaluated on 4 benchmarks: MNIST, FashionMNIST, SmallNORB, and CIFAR10.
 
 
 ## Usage
@@ -35,7 +35,7 @@ It will train the model for 100 epoches and outputs are saved in the <reconstrac
 
 **Reconstraction results**
 
-Reconstraction results on 0 and 99 epoches.
+Reconstraction results on 1 and 100 epoches.
 Digits at left are real images from MNIST and digits at right are corresponding reconstructed images.
 
 ![Epoch_0](pictures/epoch_0.png)
