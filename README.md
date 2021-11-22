@@ -33,7 +33,7 @@ $ python train.py --model=model99.pt --dataset=mnist
 It will train the model for 100 epoches and outputs are saved in the <reconstractions> directory.
 
 
-**Reconstraction result**
+**Reconstraction results**
 
 Reconstraction results on 0 and 99 epoches.
 Digits at left are real images from MNIST and digits at right are corresponding reconstructed images.
