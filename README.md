@@ -28,7 +28,7 @@ cd EGWCaps
 **Train EGWCaps on MNIST**
 
 ```console
-$ python train.py --model=model99.pt --dataset=mnist
+$ python train.py --model=MNIST --dataset=mnist
 ```
 It will train the model for 100 epoches and outputs are saved in the <reconstractions> directory.
 
