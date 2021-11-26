@@ -37,7 +37,7 @@ It will train the model for 100 epoches and outputs are saved in the <reconstrac
 **Reconstraction results**
 
 Reconstraction results on 1 and 100 epoches.
-Digits at left are real images from MNIST and digits at right are corresponding reconstructed images.
+Digits at left are the real images from MNIST and digits at right are the corresponding reconstructed images.
 
 ![Epoch_0](pictures/epoch_0.png)
 
