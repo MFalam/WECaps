@@ -11,7 +11,7 @@ EGWCaps can be evaluated on 4 benchmarks: MNIST, FashionMNIST, SmallNORB, and CI
 **Clone this repository to local**
 
 ```python
-git clone https://github.com/Anony-22/WECaps
+https://github.com/Anony-22/WECaps.git
 
 cd WECaps
 ```
