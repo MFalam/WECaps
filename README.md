@@ -1,4 +1,4 @@
-# EGWCaps
+# WECaps
 Ensembled Gromov-Wasserstein (EGW) framework is proposed for finding the degree of alignment between an input and the components modeled by the capsule sequence. This strategy leverages new insights on defining alignment between the input and the capsule sequences as a function of the similarity between their respective component distributions.
 
 ## Benchmarks
@@ -11,9 +11,9 @@ EGWCaps can be evaluated on 4 benchmarks: MNIST, FashionMNIST, SmallNORB, and CI
 **Clone this repository to local**
 
 ```python
-git clone https://github.com/anonymous-CVPR2022/EGWCaps
+git clone https://github.com/Anony-22/WECaps
 
-cd EGWCaps
+cd WECaps
 ```
 
 
